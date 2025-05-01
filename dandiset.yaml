@@ -3,6 +3,7 @@
 # and obtained from the dandiarchive.
 '@context': 
   https://raw.githubusercontent.com/dandi/schema/master/releases/0.6.9/context.json
+about: []
 access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
@@ -15,6 +16,7 @@ citation: Zhu, Hanlin (2025) A dataset of stimulus evoked spiking timestamps fro
   [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001431/draft
 contributor:
 - affiliation: []
+  awardNumber: internalAward001
   email: hanlin.zhu@rice.edu
   includeInCitation: true
   name: Zhu, Hanlin
@@ -31,6 +33,7 @@ description: 'More details will be provided upon publication. The dataset contai
   to specific stimuli was significant on a given day (for high attendance units only)
   as well as whether a neuron was among least 15% poorly tuned neurons were also provided
   as separate tables. '
+ethicsApproval: []
 id: DANDI:001431/draft
 identifier: DANDI:001431
 license:
@@ -39,8 +42,10 @@ manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001431/versions/draft/assets/
 name: A dataset of stimulus evoked spiking timestamps from same neurons across multiple
   days recorded with advanced electrodes
+relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.9
 url: https://dandiarchive.org/dandiset/001431/draft
 version: draft
+wasGeneratedBy: []
